@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@author:pengxingxiong@ruijie.com.cn
+@author:
 @time: 2018/10/11 9:37
 @desc:
 """
